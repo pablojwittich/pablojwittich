@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Javier Wittich</h1>
+<h1 align="center">Hi, I'm Pablo Javier Wittich</h1>
 <h3 align="center">I'm a Backend Programmer from Tucuman - Argentian</h3>
 <h5 align="center">I'm a Backend Developer, I'm learning several programming languages and doing projects to get more experience in the field. 
 I am also looking for new technologies to help me in this process</h5>
