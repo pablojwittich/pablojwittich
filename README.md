@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Pablo Javier Wittich</h1>
 <h3 align="center">I'm a Backend Programmer from Tucuman - Argentian</h3>
-<h4 align="center">I'm a Backend Developer, I'm learning several programming languages and doing projects to get more experience in the field. 
-I am also looking for new technologies to help me in this process</h4>
+<h4 align="center">Hi, I'm Pablo, I'm 26 years old and I'm a self-taught programmer. I have experience as a backend programmer with PHP, Laravel, Mysql and SQL mainly, currently 2 years ago with various projects, all of which are on Github.</h4>
+<br>
+<h4>I am looking for jobs to learn in a practical way and develop myself in the field.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojwittich&label=Profile%20views&color=0e75b6&style=flat" alt="pablojwittich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablojwittich" alt="pablojwittich" /></a> </p>
